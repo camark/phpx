@@ -1,0 +1,20 @@
+.max-input-form{font-family:'microsoft yahei';}
+
+.max-input-form sm{dislay:inline-block;margin:0 10px;font-size:12px;color:#555;}
+.max-input-form input[type=checkbox],.max-input-form input[type=radio]{
+	margin:0;vertical-align:middle;
+}
+
+
+@media (min-width:768px){
+	.max-input-form .form-control{display:inline-block;max-width:350px;}
+	.max-input-form .input-group{max-width:350px;}
+	.max-input-form textarea.form-control{max-width:500px;}
+	.max-input-form .form-part footer{display:block;margin:0 0 10px 10px;}
+	
+	.max-input-form .btn-line .btn{max-width:350px;}
+}
+
+@media (max-width:767px){
+	.max-input-form .btn-line .space{display:none;}
+}

@@ -1,0 +1,47 @@
+/* CSS Document */
+@import url('layout.css');
+*{font-size:12px;font-family:Verdana, Arial, Helvetica, sans-serif;}
+body,ul,dl,li,dd,a,h1,h2,h3,h4,h5,h6,div,p{margin:0;padding:0;}
+img{border:none;}
+input.input{border:1px solid #888;background:url(images/input.gif);}
+input.checkbox{height:16px;font-size:14px;}
+input,img{vertical-align:middle;}
+
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
+.wrap{margin:0 auto;}
+
+
+
+.clear{clear:both;height:0;font-size:0;line-height:0;}
+	.clear:after{clear:both;display:block;visibility:hidden;content:'.';height:0;}
+
+.button{border:1px solid #555;font-size:14px;font-weight:bold;color:#fff;background:#fff url(images/bg_button.gif) 1px 1px no-repeat;height:29px;padding:0 15px;}
+.button_green{border:1px solid #333;font-size:14px;font-weight:bold;color:#fff;background:#fff url(images/bg_button_green.gif) 1px 1px no-repeat;height:32px;padding:0 15px;}
+.button_red{border:0;font-size:14px;font-weight:bold;color:#fff;background:url(images/bg_button_red.gif);height:32px;padding:0 15px;}
+.button_yellow{border:1px solid #000;font-weight:bold;color:#600;background:url(images/bg_button_yellow.gif);height:29px;padding:0 15px;}
+.narrow{height:22px;line-height:22px;}
+.short{padding:0 2px;}
+
+
+table.data{border:solid #ddd;border-width:1px 0 0 1px;}
+	table.data td{border:solid #ddd;border-width:0 1px 1px 0;padding:5px;background:#fff;}
+	table.data a{color:#575757;}
+	
+.mt10{margin-top:10px;}
+.mt20{margin-top:20px;}
+.mt30{margin-top:30px;}
+.mt40{margin-top:40px;}
+.mt50{margin-top:50px;}
+.mt60{margin-top:60px;}
+.mt70{margin-top:70px;}
+.mt80{margin-top:80px;}
+.mt90{margin-top:90px;}
+.mt100{margin-top:100px;}
+.mt110{margin-top:110px;}
+
+.mb5{margin-bottom:5px;}
+.mb10{margin-bottom:10px;}
+.mb15{margin-bottom:15px;}
+
+.textcenter{text-align:center;}

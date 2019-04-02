@@ -1,0 +1,2 @@
+<define:version default="2.0.0" required="false" />
+<?php if(!isset($jqueryBasic)){echo "<script language=\"javascript\" src=\"__TAG__/jquery-". $param.version .".min.js\"></script>";$jqueryBasic=true;}?>

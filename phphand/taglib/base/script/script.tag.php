@@ -1,0 +1,1 @@
+<define:src type="string" required="true" /><script src="{$param.src}"></script>

@@ -1,0 +1,12 @@
+<base:css src="__TAG__/bootstrap/bootstrap.min.css" />
+<base:css src="__TAG__/bootstrap/bootstrap-theme.min.css" />
+<base:css src="__TAG__/bootstrap/font-awesome.min.css" />
+<base:css src="__PHPHAND__/taglib/jquery/basic/jquery.js" />
+<base:css src="__TAG__/bootstrap.js" />
+<base:css src="__TAG__/dialog.js" />
+<base:script src="__TAG__/bootstrap-submenu.js" />
+<base:css src="__TAG__/bootstrap-submenu.css" />
+<base:css src="__TAG__/loading.css" />
+<base:css src="__TAG__/jquery.loadcss.js" />
+<base:css src="__TAG__/tap.js" />
+<?php $jqueryBasic=true;?>

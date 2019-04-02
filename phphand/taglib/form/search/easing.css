@@ -1,0 +1,45 @@
+#search-form{font-family:'microsoft yahei';}
+#search-form .input-group{display:table;max-width:350px;border:0;border-radius:0;background:none;border:0;border-bottom:1px solid #ddd;}
+#search-form .form-control{display:inline-block;max-width:350px;box-shadow:none;
+transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+border:0;border-bottom:1px solid #ddd;
+border-radius:0;background-color:white;
+position:relative;
+}
+#search-form .input-group .form-control{border-bottom:0;height:29px;}
+#search-form .form-control:focus{
+}
+#search-form  textarea.form-control{max-width:500px;}
+
+label.col-md-2,label.col-sm-2,label.col-xs-2{padding-right:0;}
+
+#search-form .input-group-addon{padding:6px 8px;background:none;border:0;border-radius:0;}
+
+#search-form .form-group-sm .control-label{padding-top:3px;color:#777;font-family:'microsoft yahei';padding-left:0;}
+#search-form .mt10{margin-top:7px;}
+#search-form .mb10{margin-bottom:8px;}
+/*
+sm{dislay:inline-block;margin:0 10px;font-size:12px;color:#555;}
+input[type=checkbox],input[type=radio]{
+	margin:0;vertical-align:middle;
+}
+*/
+
+#search-form div.tag-input-select
+{
+	padding-right:0;
+}
+#search-form div.tag-input-select select{
+appearance:none;
+-moz-appearance:none; /* Firefox */
+-webkit-appearance:none; /* Safari 和 Chrome */
+background-image: url(select.png);
+background-repeat:no-repeat;
+background-position:right center;
+}
+#search-form .glyphicon-menu-down:after,#search-form .glyphicon-menu-down:before{content:'';}
+#search-form .tree-selector-addon{
+background-image: url(select.png);
+background-repeat:no-repeat;
+background-position:right center;
+}

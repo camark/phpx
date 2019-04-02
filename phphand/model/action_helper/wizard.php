@@ -1,0 +1,1 @@
+<ui:sheet_box sheets="$wizard_array" style="$wizard_style" title="$wizard_title" />

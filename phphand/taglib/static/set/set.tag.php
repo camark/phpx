@@ -1,0 +1,1 @@
+<define:name type="string" /><define:value type="string" />{set:{$param.name}={$param.value}}

@@ -1,0 +1,1 @@
+{if isset($ajax_update)}FALSE{/if}

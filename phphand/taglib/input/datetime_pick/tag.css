@@ -1,0 +1,17 @@
+.mdatepicker{
+	position: fixed;
+	z-index:1031;
+	bottom:0;
+	left:0;
+	right:0;
+	height:200px;
+	background:white;
+	overflow:hidden;
+	border-top:1px solid #ccc;
+	padding-top:5px;
+}
+
+.mpart{height:130px;overflow:hidden;margin-bottom:10px;}
+.scroll{text-align:center;}
+.mpart .item{height:25px;font-size:14px;color:#ccc;font-weight:normal;font-family:'Arial';}
+.mpart .current{font-weight:bold;color:#000;font-size:18px;}

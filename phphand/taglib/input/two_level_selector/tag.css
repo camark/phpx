@@ -1,0 +1,15 @@
+.two-selector-modal .modal-body{padding:0;}
+
+.two-selector-modal .first-level{padding:10px;height:160px;overflow:auto;border-bottom:1px solid #ddd;}
+.two-selector-modal .first-level ul{list-style:none;margin:0;padding:0;}
+.two-selector-modal .first-level li{display:inline-block;width:32%;height:24px;font-size:12px;}
+.two-selector-modal .first-level li.hover span{text-decoration:underline;color:#f30;cursor:pointer;}
+
+.two-selector-modal .second-level{height:160px;overflow:auto;padding:10px;border-bottom:1px solid #ddd;}
+.two-selector-modal .second-level ul{list-style:none;margin:0;padding:0;}
+.two-selector-modal .second-level li{display:inline-block;width:32%;height:24px;font-size:12px;}
+.two-selector-modal .second-level li.hover span{text-decoration:underline;color:#f30;cursor:pointer;}
+
+
+.two-selector-modal .modal-body .result{height:80px;overflow:auto;background:#f0f0f0;padding:7px;}
+.two-selector-modal .result label{display:inline-block;width:33%;height:22px;font-size:12px;vertical-align:top;}

@@ -1,0 +1,7 @@
+.edit-table{}
+.edit-table table{border:1px solid #ccc;border-radius:5px;}
+	.edit-table td{background:white;padding:13px 8px;font-size:12px;font-family:'microsoft yahei';}
+	.edit-table tbody td{border-top:1px dashed #ddd;color:#555;}
+	.edit-table thead td{font-weight:bold;font-size:13px;}
+	
+	.edit-table tbody .add-row td{background:#ffd;}

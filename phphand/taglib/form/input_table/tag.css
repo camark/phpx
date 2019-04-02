@@ -1,0 +1,12 @@
+/* CSS Document */
+
+.sh_input_table{}
+	.sh_input_table *{font-size:14px;font-family:Verdana, Arial, Helvetica, sans-serif;}
+	.sh_input_table td{padding:5px;}
+	.sh_input_table .input{height:18px;line-height:18px;}
+	
+	.sh_input_table td.t{text-align:right;}
+		.sh_input_table td.t i{color:red;}
+
+		
+.zero-input-form{padding:20px;}

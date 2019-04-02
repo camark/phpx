@@ -1,0 +1,20 @@
+/* CSS Document */
+.plugin_topic_list_div *{font-size:12px;font-family:Arial, Helvetica, sans-serif;}
+.plugin_topic_list_div a{color:#333;text-decoration:none;}
+.plugin_topic_list_div a:hover{text-decoration:underline;color:#0066CC;}
+
+table.plugin_topic_list{border-top:1px solid #ddd;}
+table.plugin_topic_list td{border-bottom:1px solid #f2f2f2;padding:3px 3px;}
+table.plugin_topic_list thead td{background:#EFF4FC;border-bottom:1px solid #eaeaea;}
+table.plugin_topic_list td.center{text-align:center;}
+table.plugin_topic_list td.right{text-align:right;}
+
+table.plugin_topic_list td.c span,table.plugin_topic_list td.u span{color:#999;font-size:9px;}
+
+.plugin_topic_list_div fieldset{border: 1px solid #ccc;padding:7px;}
+
+.plugin_topic_list_div input.text,
+.plugin_topic_list_div input.title   { width:70%; padding:2px; }
+.plugin_topic_list_div input.title   { font-size:1.5em; }
+.plugin_topic_list_div textarea      { width:80%; height: 250px; padding:5px; }
+

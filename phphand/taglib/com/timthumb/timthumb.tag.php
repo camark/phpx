@@ -1,0 +1,1 @@
+<img src="__PHP__?class={com:timthumb}&url={$param.src}&w={$param.width}&h={$param.height}&q=100" width="{$param.width}" height="{$param.height}" />

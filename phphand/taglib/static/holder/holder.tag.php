@@ -1,0 +1,1 @@
+<define:name type="*" />{static:{$param.name}}

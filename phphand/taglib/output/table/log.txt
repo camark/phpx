@@ -1,0 +1,389 @@
+
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=1
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=1
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11?3????¨¦?????
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11%E5%BA%A7%E5%BA%A7%E5%BA%A7
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11?o¡ì?o¡ì?o¡ì
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=3&field=fid&is_virtual_field=false&value=
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11aaa
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11zzz
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=1
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11aaa
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11zzz
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=1ï¿½ï¿½?????
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11?3????ï¿½ï¿½?????
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=1nsa
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=1nsa
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11?oï¿½ï¿½?oï¿½ï¿½?oï¿½ï¿½
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=11xw
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=11bbb
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D11
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=1%E8%81%8C%E4%BD%8D11
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=2&field=name&is_virtual_field=false&value=%E5%BC%A0%E6%96%87%E6%9D%B02
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=2&field=name&is_virtual_field=false&value=????????¡ã2
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=1&field=name&is_virtual_field=false&value=%E5%BC%A0%E6%96%87%E6%9D%B02
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=1&field=name&is_virtual_field=false&value=????????¡ã2
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=2&field=name&is_virtual_field=false&value=%E5%BC%A0%E6%96%87%E6%9D%B02
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=1&field=name&is_virtual_field=false&value=%E5%BC%A0%E6%96%87%E6%9D%B02
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=1&field=name&is_virtual_field=false&value=%E5%BC%A0%E6%96%87%E6%9D%B02
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D1
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=3&field=name&is_virtual_field=false&value=1%E7%AE%80%E5%8E%86
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=3&field=name&is_virtual_field=false&value=%E7%AE%80%E5%8E%86
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=1&field=name&is_virtual_field=false&value=%E5%BC%A0%E6%96%87%E6%9D%B0
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=2&field=name&is_virtual_field=false&value=%E5%BC%A0%E6%96%87%E6%9D%B0
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E8%AE%BE%E7%BD%AEtx
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=?3????¨¨?????tx
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=1¨¨?????11
+/admin.php?class={output:table}&method=update_column&config=max_data_template_item&table=max_data_template_item&data_id=30&field=title&is_virtual_field=false&value=%E7%BC%96%E8%BE%91%E8%81%8C%E4%BD%8D%E4%BF%A1%E6%81%AF
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=?3????¨¨?????2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=3&field=name&is_virtual_field=false&value=1??????
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=1&field=name&is_virtual_field=false&value=????????¡ã
+/admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=2&field=name&is_virtual_field=false&value=????????¡ã
+/admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=5&field=status_i&is_virtual_field=true&value=1
+/admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=1&field=sdepartment_i&is_virtual_field=true&value=2
+/admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=1&field=sdepartment_i&is_virtual_field=true&value=2
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=1ï¿½ï¿½?????11
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=3&field=name&is_virtual_field=false&value=%E7%AE%80%E5%8E%86
+/admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F%E9%85%8D%E7%BD%AE
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=19&field=title&is_virtual_field=false&value=%E6%95%B0%E6%8D%AE%E6%A8%A1%E5%9E%8B
+/admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=order&is_virtual_field=false&value=32
+/admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=name&is_virtual_field=false&value=PinCN
+/admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=name&is_virtual_field=false&value=Java
+/admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=type&is_virtual_field=false&value=1
+/admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=type&is_virtual_field=false&value=3
+/admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=type&is_virtual_field=false&value=3
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=19&field=title&is_virtual_field=false&value=??¡ã????¡§????
+/admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=name&is_virtual_field=false&value=PinCN
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=12&field=url&is_virtual_field=false&value=%23
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=12&field=url&is_virtual_field=false&value=
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=????¡À?
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=12&field=url&is_virtual_field=false&value=%23
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=12&field=url&is_virtual_field=false&value=%23
+/admin.php?class={output:table}&method=update_column&config=max_data_template_item&table=max_data_template_item&data_id=73&field=title&is_virtual_field=false&value=%E7%AE%80%E5%8E%86%E6%80%BB%E6%95%B0
+/admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=????¡À?****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+265a308660fdac3997d638e7d675f533              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=url&is_virtual_field=false&value=%23%2Fplugin
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%951
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95****
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=2&field=name&is_virtual_field=false&value=%E7%AE%80%E5%8E%86
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=9&field=url&is_virtual_field=false&value=%23%2Fcandidate
+l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=8&field=url&is_virtual_field=false&value=%23%2Fresume
+2015-06-04 14:07:42   l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=16&field=url&is_virtual_field=false&value=%23
+2015-06-04 14:07:45   l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+2015-06-04 14:07:48   l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+2015-06-04 14:08:01   l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+2015-06-04 14:08:02   l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+2015-06-04 14:08:06   l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+2015-06-04 14:08:09   l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+2015-06-04 14:08:12   l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+2015-06-04 14:08:21   l2sdfhnrbfelo6e779gf0krmv4              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=21&field=title&is_virtual_field=false&value=%E6%89%A9%E5%B1%95
+2015-06-09 10:53:41   v7cu66pk61t48leve63jsurt46              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=11&field=title&is_virtual_field=false&value=%E6%95%B0%E6%8D%AE
+2015-06-09 10:53:43   v7cu66pk61t48leve63jsurt46              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=4&field=title&is_virtual_field=false&value=%E6%9D%83%E9%99%90
+2015-06-09 10:53:46   v7cu66pk61t48leve63jsurt46              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=13&field=title&is_virtual_field=false&value=%E7%B3%BB%E7%BB%9F
+2015-06-09 11:07:49   v7cu66pk61t48leve63jsurt46              /admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=1&field=sdepartment_i&is_virtual_field=true&value=
+2015-06-09 11:22:07   v7cu66pk61t48leve63jsurt46              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_job&data_id=1&field=gender_i&is_virtual_field=true&value=1
+2015-06-09 11:22:28   v7cu66pk61t48leve63jsurt46              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_job&data_id=1&field=name_s&is_virtual_field=true&value=xxx
+2015-06-09 11:43:32   v7cu66pk61t48leve63jsurt46              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_job&data_id=1&field=gender_i&is_virtual_field=true&value=1
+2015-06-10 11:15:09   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=
+2015-06-10 11:15:23   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=
+2015-06-10 11:16:03   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=
+2015-06-10 11:17:49   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=
+2015-06-10 11:18:06   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=
+2015-06-10 11:19:52   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=
+2015-06-10 11:20:24   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-04
+2015-06-10 11:20:25   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-04
+2015-06-10 11:20:26   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-04
+2015-06-10 11:20:47   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=1999-03-04
+2015-06-10 11:20:48   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=1999-03-04
+2015-06-10 11:20:49   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=1999-03-04
+2015-06-10 11:23:07   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-12
+2015-06-10 11:23:08   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-12
+2015-06-10 11:23:09   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-12
+2015-06-10 11:23:49   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-11
+2015-06-10 11:23:50   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-11
+2015-06-10 11:23:51   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-11
+2015-06-10 11:25:00   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-11
+2015-06-10 11:25:01   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-11
+2015-06-10 11:25:02   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-11
+2015-06-10 11:25:38   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-19
+2015-06-10 11:25:39   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-19
+2015-06-10 11:25:40   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=birthday&is_virtual_field=true&value=2015-06-19
+2015-06-10 11:27:47   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=name_s&is_virtual_field=true&value=xxx
+2015-06-10 11:27:55   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=name_s&is_virtual_field=true&value=
+2015-06-10 11:28:18   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=$template_3&data_id=&field=name_s&is_virtual_field=true&value=xxx
+2015-06-10 11:30:17   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=9&field=title_s&is_virtual_field=true&value=tttt
+2015-06-10 11:35:01   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=2015-06-11
+2015-06-10 11:35:02   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=2015-06-11
+2015-06-10 11:35:03   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=2015-06-11
+2015-06-10 11:35:19   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=name_s&is_virtual_field=true&value=xxx
+2015-06-10 11:35:59   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-31
+2015-06-10 11:36:00   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-31
+2015-06-10 11:36:01   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-31
+2015-06-10 11:36:14   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1990-03-01
+2015-06-10 11:36:15   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1990-03-01
+2015-06-10 11:36:16   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1990-03-01
+2015-06-10 11:36:31   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-14
+2015-06-10 11:36:32   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-14
+2015-06-10 11:36:33   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-14
+2015-06-10 11:37:46   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-21
+2015-06-10 11:37:47   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-21
+2015-06-10 11:37:48   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-21
+2015-06-10 11:41:10   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-14
+2015-06-10 11:41:11   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-14
+2015-06-10 11:41:12   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-14
+2015-06-10 11:42:03   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1969-12-30
+2015-06-10 11:42:04   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1969-12-30
+2015-06-10 11:42:05   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1969-12-30
+2015-06-10 11:42:11   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=gender_i&is_virtual_field=true&value=0
+2015-06-10 11:42:29   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-21
+2015-06-10 11:42:30   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-21
+2015-06-10 11:42:31   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-21
+2015-06-10 11:42:36   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-28
+2015-06-10 11:42:37   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-28
+2015-06-10 11:42:38   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-28
+2015-06-10 11:43:14   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-07
+2015-06-10 11:43:16   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-07
+2015-06-10 11:43:17   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-07
+2015-06-10 11:43:38   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-15
+2015-06-10 11:43:39   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-15
+2015-06-10 11:43:40   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-15
+2015-06-10 11:43:52   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-21
+2015-06-10 11:43:53   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-21
+2015-06-10 11:43:54   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-21
+2015-06-10 11:44:25   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-13
+2015-06-10 11:44:26   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-13
+2015-06-10 11:44:27   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-13
+2015-06-10 11:44:39   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-13
+2015-06-10 11:44:40   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-13
+2015-06-10 11:44:41   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-13
+2015-06-10 11:57:20   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-16
+2015-06-10 11:57:21   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-16
+2015-06-10 11:57:22   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-16
+2015-06-10 11:57:27   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-23
+2015-06-10 11:57:28   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-23
+2015-06-10 11:57:29   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1970-01-23
+2015-06-10 11:58:00   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1986-07-03
+2015-06-10 11:58:01   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1986-07-03
+2015-06-10 11:58:02   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1986-07-03
+2015-06-10 11:58:11   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1986-07-18
+2015-06-10 11:58:12   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1986-07-18
+2015-06-10 11:58:13   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1986-07-18
+2015-06-10 11:58:20   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=gender_i&is_virtual_field=true&value=1
+2015-06-10 11:58:23   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=gender_i&is_virtual_field=true&value=0
+2015-06-10 11:58:26   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=gender_i&is_virtual_field=true&value=1
+2015-06-10 11:58:31   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=name_s&is_virtual_field=true&value=xxx111
+2015-06-10 12:07:04   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=name_s&is_virtual_field=true&value=xxx1112
+2015-06-10 12:07:51   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=gender_i&is_virtual_field=true&value=0
+2015-06-10 12:07:55   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1986-07-25
+2015-06-10 12:07:56   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1986-07-25
+2015-06-10 12:07:57   7pu8dplg9mdivan2rant8c2cq4              /admin.php?class={output:table}&method=update_column&config=$template_3&table=max_resume&data_id=1&field=birthday&is_virtual_field=true&value=1986-07-25
+2015-06-11 11:33:02   c3cgfu4l3j3rujapkqg4mbsd30              /admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=8&field=sdepartment_i&is_virtual_field=true&value=
+2015-06-11 11:33:06   c3cgfu4l3j3rujapkqg4mbsd30              /admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=2&field=sdepartment_i&is_virtual_field=true&value=
+2015-06-12 12:03:40   puk5d5tmtnj77nn5qjpl2b9436              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_05%2F1432614349_9789.jpg
+2015-06-12 12:03:46   puk5d5tmtnj77nn5qjpl2b9436              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=phone&is_virtual_field=false&value=MasterField1
+2015-06-12 12:07:17   puk5d5tmtnj77nn5qjpl2b9436              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=3&field=url&is_virtual_field=false&value=%23%2Fnav%2Fadd%2Ffid****1
+2015-06-12 12:07:23   puk5d5tmtnj77nn5qjpl2b9436              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=12&field=icon&is_virtual_field=false&value=exclamation-sign
+2015-06-12 12:07:30   puk5d5tmtnj77nn5qjpl2b9436              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=12&field=icon&is_virtual_field=false&value=cog
+2015-06-13 13:42:35   f4tilss579rigb7j244d2dh6l3              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=3&field=icon&is_virtual_field=false&value=edit
+2015-06-13 13:42:39   f4tilss579rigb7j244d2dh6l3              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=17&field=icon&is_virtual_field=false&value=unchecked
+2015-06-13 13:42:43   f4tilss579rigb7j244d2dh6l3              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=16&field=icon&is_virtual_field=false&value=collapse-down
+2015-06-13 13:42:52   f4tilss579rigb7j244d2dh6l3              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=13&field=icon&is_virtual_field=false&value=text-background
+2015-06-13 13:42:57   f4tilss579rigb7j244d2dh6l3              /admin.php?class={output:table}&method=update_column&config=max_nav&table=max_nav&data_id=4&field=icon&is_virtual_field=false&value=tree-deciduous
+2015-06-16 14:30:49   hhi0hff7bqntvc503a96m5vch6              /admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=17&field=sdepartment_i&is_virtual_field=true&value=1
+2015-06-16 14:30:55   hhi0hff7bqntvc503a96m5vch6              /admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=18&field=sdepartment_i&is_virtual_field=true&value=3
+2015-06-16 14:31:00   hhi0hff7bqntvc503a96m5vch6              /admin.php?class={output:table}&method=update_column&config=$template_1&table=max_job&data_id=19&field=sdepartment_i&is_virtual_field=true&value=3
+2015-06-25 18:29:17   1pkna4o1629qkhjghb28rufef3              /admin.php?class={output:table}&method=update_column&config=max_data_template&table=max_data_template&data_id=1&field=name&is_virtual_field=false&value=%E8%81%8C%E4%BD%8D
+2015-06-25 18:37:03   1pkna4o1629qkhjghb28rufef3              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=name&is_virtual_field=false&value=PinCN12
+2015-06-25 18:37:07   1pkna4o1629qkhjghb28rufef3              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=name&is_virtual_field=false&value=Test.Demo211
+2015-06-25 18:37:16   1pkna4o1629qkhjghb28rufef3              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_06%2F1435228634_5147.jpg
+2015-06-26 10:54:42   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_06%2F1435287280_6667.jpg
+2015-06-26 10:54:51   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=2&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_06%2F1435287290_9892.jpg
+2015-06-26 10:54:59   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=4&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_06%2F1435287298_7365.jpg
+2015-06-26 10:56:13   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=type&is_virtual_field=false&value=3
+2015-06-26 10:56:15   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=type&is_virtual_field=false&value=1
+2015-06-26 10:56:17   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=size&is_virtual_field=false&value=3
+2015-06-26 10:56:20   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=size&is_virtual_field=false&value=1
+2015-06-26 10:56:22   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=2&field=size&is_virtual_field=false&value=3
+2015-06-26 10:56:25   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=4&field=size&is_virtual_field=false&value=1
+2015-06-26 10:56:27   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=2&field=size&is_virtual_field=false&value=3
+2015-06-26 10:56:29   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=size&is_virtual_field=false&value=1
+2015-06-26 10:56:31   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=size&is_virtual_field=false&value=3
+2015-06-26 10:56:34   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=size&is_virtual_field=false&value=1
+2015-06-26 10:56:36   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=2&field=size&is_virtual_field=false&value=3
+2015-06-26 10:56:59   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_06%2F1435228634_5147.jpg
+2015-06-26 10:57:02   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=phone&is_virtual_field=false&value=Zend%20Studio
+2015-06-26 10:57:03   32q9ppvvqt6aclmtfa9imh4e86              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=phone&is_virtual_field=false&value=MasterField1
+2015-07-20 13:52:59   ia0dvgr97ijr70trgs1qts0qk2              /admin.php?class={output:table}&method=update_column&config=max_data_template_item&table=max_data_template_item&data_id=30&field=order&is_virtual_field=false&value=1
+2015-07-21 17:27:41   q48d2v2jj7sj0rh60pjup6blq4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_06%2F1435287280_6667.jpg
+2015-07-28 13:21:55   11ns8qb1t12fnbg58pttvsmsm6              /admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=5&field=age&is_virtual_field=false&value=16
+2015-07-30 16:00:05   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=max_hr&table=max_hr&data_id=1&field=account&is_virtual_field=false&value=aaronzhou2
+2015-07-31 00:53:25   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=&field=title_s&is_virtual_field=true&value=AA
+2015-07-31 00:53:28   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=&field=title_s&is_virtual_field=true&value=BB
+2015-07-31 00:53:43   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=&field=status_i&is_virtual_field=true&value=1
+2015-07-31 00:53:46   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=&field=status_i&is_virtual_field=true&value=2
+2015-07-31 00:54:45   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=1&field=waddress_i&is_virtual_field=true&value=240999000
+2015-07-31 00:54:52   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=11&field=waddress_i&is_virtual_field=true&value=54999000
+2015-07-31 00:54:58   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=16&field=waddress_i&is_virtual_field=true&value=54999000
+2015-07-31 00:55:04   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=&field=waddress_i&is_virtual_field=true&value=359999000
+2015-07-31 01:48:37   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=1&field=status_i&is_virtual_field=true&value=2
+2015-07-31 01:48:46   pip843pcinnnf3b7i4ngobk1t1              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=16&field=status_i&is_virtual_field=true&value=3
+2015-07-31 13:52:42   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=11&field=sdepartment_i&is_virtual_field=true&value=1
+2015-07-31 13:52:47   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=1&field=sdepartment_i&is_virtual_field=true&value=2
+2015-07-31 13:52:55   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=1&field=title_s&is_virtual_field=true&value=%E5%BC%A0%E6%96%87%E6%9D%B0
+2015-07-31 13:53:03   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=1&field=title_s&is_virtual_field=true&value=%E5%BC%A0%E6%96%87%E6%9D%B0
+2015-07-31 14:17:24   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=4&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_07%2F1438060949_6027.jpg%2C%2Fuploads%2F2015_07%2F1438323440_5823.jpg
+2015-07-31 14:19:25   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=11&field=waddress_i&is_virtual_field=true&value=54999000
+2015-07-31 15:05:38   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=16&field=1&is_virtual_field=true&value=
+2015-07-31 15:05:43   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=16&field=1&is_virtual_field=true&value=aaaa
+2015-07-31 15:06:32   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=16&field=1&is_virtual_field=true&value=aaaa
+2015-07-31 15:06:39   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=16&field=1&is_virtual_field=true&value=aaaa
+2015-07-31 15:06:42   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=&field=1&is_virtual_field=true&value=ff
+2015-07-31 15:06:45   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=&field=1&is_virtual_field=true&value=ff
+2015-07-31 15:06:49   gb4dvkelavaf93pntppfh0ni90              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=16&field=1&is_virtual_field=true&value=aaaa
+2015-08-01 17:44:56   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=size&is_virtual_field=false&value=2
+2015-08-01 17:44:59   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=size&is_virtual_field=false&value=4
+2015-08-01 17:45:04   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=2&field=size&is_virtual_field=false&value=1
+2015-08-01 17:45:08   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=4&field=size&is_virtual_field=false&value=4
+2015-08-01 17:45:13   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=4&field=type&is_virtual_field=false&value=1
+2015-08-01 17:45:35   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=phone&is_virtual_field=false&value=111111111
+2015-08-01 17:45:40   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_07%2F1438061015_9389.jpg
+2015-08-01 17:45:45   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_07%2F1438061024_6106.jpg
+2015-08-01 17:45:50   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=4&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_07%2F1438060949_6027.jpg
+2015-08-01 17:46:17   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=type&is_virtual_field=false&value=
+2015-08-01 17:46:18   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=type&is_virtual_field=false&value=
+2015-08-01 17:46:21   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=type&is_virtual_field=false&value=1
+2015-08-01 17:46:51   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=phone&is_virtual_field=false&value=13970325332
+2015-08-01 17:48:11   ul25rtq4vqqthqho3sudrpf5o4              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_07%2F1438061015_9389.jpg
+2015-08-03 10:26:41   a0003k87v0nn2b0u4m2j3ddd72              /admin.php?class={output:table}&method=update_column&config=$template_list_1&table=max_job&data_id=11&field=waddress_i&is_virtual_field=true&value=54999000
+2015-09-17 15:10:45   a0pjsrd0a8gje21l1oj2gul9h0              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=1&field=sdepartment_i&is_virtual_field=true&value=1
+2015-09-17 15:10:50   a0pjsrd0a8gje21l1oj2gul9h0              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=2&field=sdepartment_i&is_virtual_field=true&value=1
+2015-09-17 21:01:18   a0pjsrd0a8gje21l1oj2gul9h0              /admin.php?class={output:table}&method=update_column&config=max_data_template_item&table=max_data_template_item&data_id=50&field=key&is_virtual_field=false&value=rnumber_i
+2015-09-17 21:01:25   a0pjsrd0a8gje21l1oj2gul9h0              /admin.php?class={output:table}&method=update_column&config=max_data_template_item&table=max_data_template_item&data_id=47&field=key&is_virtual_field=false&value=waddress_i
+2015-09-17 21:01:27   a0pjsrd0a8gje21l1oj2gul9h0              /admin.php?class={output:table}&method=update_column&config=max_data_template_item&table=max_data_template_item&data_id=46&field=key&is_virtual_field=false&value=ddepartment_i
+2015-09-18 16:18:54   k28qocgnjm2cbf97t7ps5h3ob1              /admin.php?class={output:table}&method=update_column&config=max_job_procedure&table=max_job_procedure&data_id=1&field=name&is_virtual_field=false&value=%E7%A4%BE%E4%BC%9A%E6%8B%9B%E8%81%98
+2015-09-23 09:54:49   35sb2tb1h711vf2h2b1t3ths35              /admin.php?class={output:table}&method=update_column&config=max_data_template_item&table=max_data_template_item&data_id=225&field=key&is_virtual_field=false&value=highest_diploma_i
+2015-09-23 09:55:11   35sb2tb1h711vf2h2b1t3ths35              /admin.php?class={output:table}&method=update_column&config=max_data_template_item&table=max_data_template_item&data_id=217&field=key&is_virtual_field=false&value=job_id_stage_s
+2015-09-24 14:06:02   35sb2tb1h711vf2h2b1t3ths35              /admin.php?class={output:table}&method=update_column&config=max_job_stage_model&table=max_job_stage_model&data_id=5&field=name&is_virtual_field=false&value=%E5%BE%85%E5%AE%9A
+2015-09-24 14:06:19   35sb2tb1h711vf2h2b1t3ths35              /admin.php?class={output:table}&method=update_column&config=max_job_stage_model&table=max_job_stage_model&data_id=4&field=name&is_virtual_field=false&value=%E5%A4%87%E9%80%89
+2015-09-24 14:06:23   35sb2tb1h711vf2h2b1t3ths35              /admin.php?class={output:table}&method=update_column&config=max_job_stage_model&table=max_job_stage_model&data_id=3&field=name&is_virtual_field=false&value=%E5%85%B3%E6%B3%A8
+2015-09-24 14:06:28   35sb2tb1h711vf2h2b1t3ths35              /admin.php?class={output:table}&method=update_column&config=max_job_stage_model&table=max_job_stage_model&data_id=2&field=name&is_virtual_field=false&value=%E6%B7%98%E6%B1%B0
+2015-09-24 14:06:34   35sb2tb1h711vf2h2b1t3ths35              /admin.php?class={output:table}&method=update_column&config=max_job_stage_model&table=max_job_stage_model&data_id=1&field=name&is_virtual_field=false&value=%E9%80%9A%E8%BF%87
+2015-09-24 14:15:36   35sb2tb1h711vf2h2b1t3ths35              /admin.php?class={output:table}&method=update_column&config=$template_list_3&table=max_resume&data_id=42&field=highest_diploma_i&is_virtual_field=true&value=60
+2015-09-24 14:15:39   35sb2tb1h711vf2h2b1t3ths35              /admin.php?class={output:table}&method=update_column&config=$template_list_3&table=max_resume&data_id=42&field=highest_diploma_i&is_virtual_field=true&value=60
+2015-10-09 13:11:25   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=23&field=status_i&is_virtual_field=true&value=2
+2015-10-09 13:12:26   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_10%2F1444367543_6419.png
+2015-10-09 13:12:35   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_10%2F1444367552_2935.png
+2015-10-09 13:12:40   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=2&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_10%2F1444367559_6679.png
+2015-10-09 13:12:45   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=4&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_10%2F1444367564_4163.png
+2015-10-09 15:13:27   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev1
+2015-10-09 15:13:45   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev11
+2015-10-09 15:14:18   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev111
+2015-10-09 15:15:13   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev111
+2015-10-09 15:15:15   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev111
+2015-10-09 15:15:17   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev111
+2015-10-09 15:16:03   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev111
+2015-10-09 15:16:05   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev111
+2015-10-09 15:16:12   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev111
+2015-10-09 15:17:55   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev111
+2015-10-09 15:19:34   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev11
+2015-10-09 15:25:16   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev1122
+2015-10-09 15:25:40   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev1055
+2015-10-09 15:26:09   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev105523
+2015-10-09 15:26:32   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=16&field=position_is&is_virtual_field=true&value=2120001
+2015-10-09 15:26:37   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=11&field=position_is&is_virtual_field=true&value=2150001%2C2150002
+2015-10-09 17:23:49   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=19&field=title_s&is_virtual_field=true&value=Linux%20dev25688
+2015-10-09 17:24:43   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=17&field=position_is&is_virtual_field=true&value=2150001%2C2150002
+2015-10-09 17:24:51   rhmgmpse912b6ejkattpgicf16              /admin.php?class={output:table}&method=update_column&config=$template_list_12&table=max_job&data_id=17&field=position_is&is_virtual_field=true&value=2150002%2C2200000
+2015-11-03 15:25:44   kkmpcv6k81s2k4vm012fb110r7              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=3&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_11%2F1446535543_4785.jpg
+2015-11-03 15:25:50   kkmpcv6k81s2k4vm012fb110r7              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=2&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_11%2F1446535549_6403.jpg
+2015-11-03 15:26:03   kkmpcv6k81s2k4vm012fb110r7              /admin.php?class={output:table}&method=update_column&config=max_department&table=max_department&data_id=1&field=logo&is_virtual_field=false&value=%2Fuploads%2F2015_11%2F1446535562_5853.jpg
+2016-04-08 12:52:19   37funp0sm7pdj0rv33nv39og21              /zh_shop/shop.php?class={output:table}&method=update_column&config=zh_order&table=zh_order&data_id=2315&field=status&is_virtual_field=false&value=1
+2016-04-09 15:09:50   m8n0o6oj0srs6aqd8atu86h293              /zh_shop/shop.php?class={output:table}&method=update_column&config=zh_order&table=zh_order&data_id=2319&field=goods_id&is_virtual_field=false&value=1

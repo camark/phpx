@@ -1,0 +1,9 @@
+.detail-part{border:1px solid #ddd;background:white;margin:0 0 10px;font-family:'microsoft yahei';}
+
+.detail-header{height:35px;line-height:35px;padding:0 15px;background:#f9f9f9;border-bottom:1px solid #ddd;}
+
+.detail-sub{padding-top:10px;padding-bottom:10px;}
+.detail-sub .row{height:30px;line-height:30px;}
+.detail-sub label.control-label{margin-bottom:0;}
+
+.detail-header a{margin-top:6px;}

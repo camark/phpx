@@ -1,0 +1,30 @@
+.chain-selector-modal .modal-body{background:url(arr.gif) center center no-repeat;}
+
+.chain-selector-modal .box{border:1px solid #ddd;}
+.chain-selector-modal .box h5{height:25px;background:#f0f0f0;margin:0;padding:0 10px;line-height:25px;}
+.chain-selector-modal .box .bd{height:380px;overflow:auto;}
+
+
+.chain-selector-modal .modal-body ul{list-style:none;padding:0;}
+.chain-selector-modal .modal-body ul li{padding:3px 0;}
+.chain-selector-modal .modal-body ul li.cur{background:#ffb;}
+.chain-selector-modal .modal-body ul.level0 li span{margin-left:10px;}
+.chain-selector-modal .modal-body ul.level1 li span{margin-left:25px;}
+.chain-selector-modal .modal-body ul.level2 li span{margin-left:40px;}
+.chain-selector-modal .modal-body ul.level3 li span{margin-left:55px;}
+
+.chain-selector-modal .modal-body .target ul{list-style:none;padding:0;}
+.chain-selector-modal .modal-body .target ul li{padding:3px 10px;}
+.chain-selector-modal .modal-body .target ul li.chosed{background:#cff;}
+
+.chain-selector-modal .modal-body li span{color:#333;font-size:.001em;cursor:pointer;font-weight:100;display:inline-block;width:20px;border-radius:2px;}
+.chain-selector-modal .modal-body li span.glyphicon-plus{text-indent:1px;}
+
+.chain-selector-modal .modal-body li label.on{color:#909;text-decoration:underline;cursor:pointer;}
+
+.chain-selector-modal .modal-body .result li{padding:3px 10px;}
+.chain-selector-modal .result label{display:inline-block;width:33%;height:22px;font-size:12px;vertical-align:top;}
+.chain-selector-modal .result span{float:right;}
+
+.the1{padding-left:0;padding-right:30px;}
+.the3{padding-left:30px;padding-right:0;}

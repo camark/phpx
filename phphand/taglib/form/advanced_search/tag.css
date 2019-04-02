@@ -1,0 +1,13 @@
+/* CSS Document */
+.advanced-search{font-family:'microsoft yahei';}
+.advanced-search .option-status .glyphicon{cursor:pointer;display:inline-block;font-size:10px;height:20px;width:20px;text-align:center;line-height:20px;border-radius:10px;background:#060;color:white;margin-top:3px;}
+.advanced-search .option-status .glyphicon-minus{background:#555;}
+.advanced-search .option-status .glyphicon-remove{background:#d00;}
+
+
+.advanced-search .inline{display:inline;}
+.advanced-search .form-control{max-width:350px;}
+
+
+.remove-line{height:20px;line-height:20px;font-size:10px;width:20px;text-align:center;background:#555;color:white;border-radius:10px;margin-top:3px;cursor:pointer;border:1px solid #555;}
+.remove-line.hover{background:#e00;border-color:#a00;}

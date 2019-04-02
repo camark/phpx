@@ -1,0 +1,30 @@
+input.tree_selector_printer{background:none;}
+
+
+.tree-selector .result{height:80px;overflow:auto;border-top:1px solid #ddd;background:#f9f9f9;padding:7px;}
+.tree-selector ul{list-style:none;margin-left:15px;padding:0;}
+.tree-selector ul li{margin:3px 0;font-weight:normal;}
+
+/*
+.modal-body span{float:left;height:16px;width:16px;background:url(add_folder.gif);margin-right:10px;cursor:pointer;}
+.modal-body span.closed{background:url(folder.gif);}*/
+.tree-selector input{vertical-align:middle;margin-right:10px;background:white;}
+.tree-selector .form-control[readonly]{background-color:white;}
+
+.tree-selector .modal-body{font-size:12px;height:400px;padding:0;}
+.tree-selector .selector{height:320px;overflow:auto;}
+
+.tree-selector .modal-body li{min-height:25px;line-height:25px;}
+.tree-selector .modal-body li *{vertical-align:middle;margin-top:0;margin-bottom:0;font-weight:normal;cursor:pointer;}
+.tree-selector .modal-body li span{float:left;color:#000;display:inline-block;width:21px;line-height:23px;position:relative;}
+.tree-selector .modal-body li span.glyphicon{cursor:pointer;}
+.tree-selector .modal-body li input{margin-right:0;}
+.tree-selector .modal-body li div{height:25px;line-height:25px;margin-left:17px;padding-left:5px;cursor:pointer;}
+.tree-selector .modal-body li div.on{background:#f0f0f0;}
+
+/*.tree-selector li label.on{color:#909;text-decoration:underline;cursor:pointer;}*/
+
+.tree-selector .modal-body .result label{display:inline-block;height:22px;line-height:22px;font-size:12px;vertical-align:top;margin:0 0 7px 7px;border:1px solid #ddd;border-radius:12px;padding:0 10px 0 4px;}
+.tree-selector .modal-body .result label span{border-radius:12px;margin-right:4px;background:#666;color:#fff;cursor:pointer;}
+.tree-selector .modal-body .result label span.hover{background:#e00;}
+

@@ -1,0 +1,1 @@
+{if !isset($base_drawer)}<?php $base_drawer=1;?><script src="__TAG__/touch.js"></script><script src="__TAG__/drawer.js"></script>{/if}

@@ -1,0 +1,8 @@
+div.tag-input-select{}
+div.tag-input-select select{
+border:0;
+width:100%;
+outline:none;
+box-shadow:none;
+background:none;
+}

@@ -1,0 +1,21 @@
+.tree-selector-zhang-input-group{overflow:hidden;border:1px solid #ccc;border-radius:4px;}
+.tree-selector-zhang{position:relative;}
+.tree-selector-zhang-true{z-index:1001;position:absolute;top:-2px;width:632px;height:402px;padding:10px;background:#fff;border:1px solid #ccc;}
+.tszt-header{height:30px;}
+.tszt-body{height:360px;}
+.selector-panel{float:left;height:230px;overflow: auto;}
+
+.selector-panel ul{list-style:none;margin:0;padding:0;}
+.selector-panel span{display:none;}
+.selector-panel input{display:none;}
+.selector-panel label{cursor: pointer;font-weight:normal;}
+.selector-panel li.active{border:solid #ccc;border-width:1px 0;background:#ffa;}
+
+.selector-panel li{height:25px;line-height:25px;width:87px;padding-left:10px;cursor:pointer;overflow:hidden;}
+
+.panel-active li{float:left;height:30px;line-height:30px;width:100px;padding-left:10px;}
+
+.selector-panel li.selected{background:#FF5E2F;color:white;border:1px solid #555;}
+
+.tszt-header label{cursor: pointer;}
+.tszt-header label.hover{color:#F30;text-decoration:underline;}
